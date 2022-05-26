@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		ED11FF7F284000E500604456 /* Ingredient.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED11FF7E284000E500604456 /* Ingredient.swift */; };
 		ED1F0BC3283D4FAB005E5B6A /* Recipe_List_App.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F0BC2283D4FAB005E5B6A /* Recipe_List_App.swift */; };
 		ED1F0BC5283D4FAB005E5B6A /* RecipeListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED1F0BC4283D4FAB005E5B6A /* RecipeListView.swift */; };
 		ED1F0BC7283D4FAF005E5B6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED1F0BC6283D4FAF005E5B6A /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		ED11FF7E284000E500604456 /* Ingredient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ingredient.swift; sourceTree = "<group>"; };
 		ED1F0BBF283D4FAB005E5B6A /* Recipe List App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Recipe List App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED1F0BC2283D4FAB005E5B6A /* Recipe_List_App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe_List_App.swift; sourceTree = "<group>"; };
 		ED1F0BC4283D4FAB005E5B6A /* RecipeListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeListView.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 			isa = PBXGroup;
 			children = (
 				ED1F0BD9283D529F005E5B6A /* Recipe.swift */,
+				ED11FF7E284000E500604456 /* Ingredient.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				ED1F0BE0283D60B6005E5B6A /* RecipeDetailView.swift in Sources */,
 				ED1F0BDC283D5409005E5B6A /* RecipeModel.swift in Sources */,
 				ED1F0BC5283D4FAB005E5B6A /* RecipeListView.swift in Sources */,
+				ED11FF7F284000E500604456 /* Ingredient.swift in Sources */,
 				ED1F0BC3283D4FAB005E5B6A /* Recipe_List_App.swift in Sources */,
 				ED1F0BDE283D5700005E5B6A /* DataService.swift in Sources */,
 				ED1F0BFE283D7BDC005E5B6A /* RecipeTabView.swift in Sources */,
