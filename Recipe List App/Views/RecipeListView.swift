@@ -50,10 +50,9 @@ struct RecipeListView: View {
                     
                 }
             }
-            
+            .navigationBarHidden(true)
+            .padding(.leading)
         }
-        .navigationBarHidden(true)
-        .padding(.leading)
     }
 }
 
